@@ -6,10 +6,6 @@
 - <b>Unity </b> <img width ="22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg"/>
 - <b>Godot 4 and GDScript </b> <img width ="22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/godotengine.svg"/>
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- 
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
