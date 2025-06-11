@@ -1,7 +1,8 @@
 <h1>Hi, I'm Hoàng! I'm still learning ~ <br/>Game Developer</h1>
 
-<h2>🌱 I’m currently learning: </h2>
 
+<h2>🌱 Trying to do better </h2>
+<!--
 - <b>Pygame </b> <img width ="22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg"/>
 - <b>Unity </b> <img width ="22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg"/>
 - <b>Godot 4 and GDScript </b> <img width ="22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/godotengine.svg"/>
