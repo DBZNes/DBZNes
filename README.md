@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hoàng! I'm still learning ~ To create my dream games <br/>Game Developer</h1>
+<h1>Hi, I'm Hoàng! I'm still learning ~ <br/>Game Developer</h1>
 
 <h2>🌱 I’m currently learning: </h2>
 
